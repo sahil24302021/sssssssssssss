@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.nivanth.com">Website</a> &nbsp;·&nbsp;
+  <a href="https://www.nivanth.com"> Live Website </a> &nbsp;·&nbsp;
 </p>
 
 ---
